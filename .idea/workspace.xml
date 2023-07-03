@@ -4,33 +4,23 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="27e04b83-93e3-4857-9283-edc4bbc38c1a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/aws.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/RunnableWithException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/day1/CaloriesInfo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/day1/Day1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/day2/Day2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/day2/NewRoundStrategy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/day2/RoundResult.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/day2/Shapes.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/day2/SimpleRoundStrategy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/day3/Day3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/day3/Rucksack.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/day4/Assignment.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/day4/AssignmentPair.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/day4/Day4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/day5/Day5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/day1.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/day2.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/day3.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/day4.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/day5.txt" afterDir="false" />
+    <list default="true" id="27e04b83-93e3-4857-9283-edc4bbc38c1a" name="Changes" comment="Commit #1">
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/day5/BoxStack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/day5/Move.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/day6/Day6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/day7/Day7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/day7/Directory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/day7/File.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/day8/Day8.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/day8/TreesGrid.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/day6.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/day7.demo.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/day7.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/day8.demo.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/day8.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/day5/Day5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/day5/Day5.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,14 +52,20 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
-    "settings.editor.selected.configurable": "editor.preferences.fonts.default"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/home/wmdanor/Documents/IdeaProjects/adventofcode/src/main/resources&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.fonts.default&quot;
   }
-}]]></component>
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/resources" />
+    </key>
+  </component>
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.example.Main" />
@@ -99,7 +95,52 @@
       <option name="presentableId" value="Default" />
       <updated>1687931857443</updated>
     </task>
+    <task id="LOCAL-00001" summary="Commit #1">
+      <option name="closed" value="true" />
+      <created>1687938517781</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1687938517781</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Commit #1" />
+    <option name="LAST_COMMIT_MESSAGE" value="Commit #1" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/example/day5/BoxStack.java</url>
+          <line>48</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/example/day6/Day6.java</url>
+          <line>24</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/example/day7/Day7.java</url>
+          <line>31</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
